@@ -1,6 +1,6 @@
-# Presentation Links
+# How Do I Get Started
 
-The links provided come from a question I got in my 1st presentation: "How can I get started?" I answered, "there's a lot of good stuff online." I was instantly disappointed by my answer. This is my new answer.
+The links provided come from a question I got during a career day presentation: "How can I get started?" I answered, "there's a lot of good stuff online." I was instantly disappointed by my answer. This is my new answer.
 
 ## Inspire
 
