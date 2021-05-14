@@ -20,7 +20,7 @@ I love animations that really breathe life into things. This example uses [three
 
 ### A Platform Game <https://output.jsbin.com/caduseh>
 
-I always wanted to make games. I typed this in—no cutting or pasting—from Chapter 16 of [Eloquent JavaScript](https://eloquentjavascript.net/). Live update in [JS Bin](https://jsbin.com) is good for finding typos and other mistakes early. Chapter 16 also sums up why I don't did not persue a job in game development [here](https://eloquentjavascript.net/16_game.html#p_hkas9mExVc).
+I always wanted to make games. I typed this in—no cutting or pasting—from Chapter 16 of [Eloquent JavaScript](https://eloquentjavascript.net/). Live update in [JS Bin](https://jsbin.com) is good for finding typos and other mistakes early. [Chapter 16](https://eloquentjavascript.net/16_game.html#p_hkas9mExVc) also sums up why I don't did not persue a job in game development.
 
 ---
 
