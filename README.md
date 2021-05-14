@@ -14,7 +14,7 @@ I often imagine my programs as clockwork. [Observable](https://observablehq.com/
 
 ### Paranoid vs shy birds <https://codepen.io/Yakudoo/full/LVyJXw>
 
-I love animations that really breathe life into things. This example uses [three.js](https://threejs.org/) as 3D graphics library. [CodePen](https://codepen.io/) also showcases small web projects with a focus on CSS and design.
+I love animations that really breathe life into things. This example uses [three.js](https://threejs.org/) a 3D graphics library. [CodePen](https://codepen.io/) also showcases small web projects with a focus on CSS and design.
 
 ---
 
