@@ -186,13 +186,13 @@ Nå velger datamaskinen et nytt tilfeldig tall hver gang.
 
 Og hvis du kommer hit, har du allerede brukt:
 
-✅ variabler
-✅ input
-✅ if / else
-✅ løkker
-✅ sammenligninger
-✅ tilfeldige tall
-✅ feilsøking
+* ✅ variabler
+* ✅ input
+* ✅ if / else
+* ✅ løkker
+* ✅ sammenligninger
+* ✅ tilfeldige tall
+* ✅ feilsøking
 
 Det er faktisk ganske mye programmering. 😎🐍
 
